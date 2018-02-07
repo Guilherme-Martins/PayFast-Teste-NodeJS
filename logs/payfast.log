@@ -1,0 +1,2 @@
+{"level":"info","message":"Consultando pagamento: 13","timestamp":"2018-02-06T18:33:09.099Z"}
+{"level":"info","message":"::1 - - [06/Feb/2018:18:33:09 +0000] \"GET /pagamentos/pagamento/13 HTTP/1.1\" 200 169\n","timestamp":"2018-02-06T18:33:09.134Z"}

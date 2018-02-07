@@ -1,0 +1,8 @@
+{
+	"pagamento": {
+		"forma_de_pagamento": "payfast",
+		"valor": "89.67",
+		"moeda": "USD",
+		"descricao": "Criando um pagamento em dollar."
+	}
+}

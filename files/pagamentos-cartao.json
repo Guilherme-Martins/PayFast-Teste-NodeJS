@@ -1,0 +1,15 @@
+{
+    "pagamento": {
+        "forma_de_pagamento": "cartao",
+        "valor": 89.67,
+        "moeda": "USD",
+        "descricao": "Criando um pagamento em dollar."
+    },
+    "cartao": {
+        "numero": 1234123412341234,
+        "bandeira": "Visa",
+        "ano_de_expiracao": 2018,
+        "mes_de_expiracao": 12,
+        "cvv": 123
+    }
+}
